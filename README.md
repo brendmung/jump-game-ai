@@ -72,7 +72,7 @@ train(render=True, episodes=1000)
 Evaluate the trained AI:
 
 ```
-python src/eval.py
+python eval.py
 ```
 
 #### Render Function in Evaluation
